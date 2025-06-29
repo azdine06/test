@@ -18,5 +18,5 @@ public final class Main {
         account.printStatement();
     }
 
-    private Main() {} // non instanciable
+
 }
